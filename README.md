@@ -1,21 +1,16 @@
-[I'm an inline-style link](https://www.google.com)
+<h1 align="center">Hi 👋, I'm MANAS</h1>
+<h3 align="center">A STUDENT FROM CLASS 11 , FIGURING OUT CODES</h3>
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasss-30&label=Profile%20views&color=0e75b6&style=flat" alt="manasss-30" /> </p>
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+- 🌱 I’m currently learning **PYTHON , CSS , C++**
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/manasss_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manasss_30" height="30" width="40" /></a>
+</p>
 
-[You can use numbers for reference-style link definitions][1]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasss-30&show_icons=true&locale=en&layout=compact" alt="manasss-30" /></p>
